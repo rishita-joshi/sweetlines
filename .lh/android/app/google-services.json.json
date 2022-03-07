@@ -1,0 +1,18 @@
+{
+    "sourceFile": "android/app/google-services.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1645277777604,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1645277777604,
+            "name": "Commit-0",
+            "content": "{\n  \"project_info\": {\n    \"project_number\": \"210572363572\",\n    \"project_id\": \"sweetlines-tahuka\",\n    \"storage_bucket\": \"sweetlines-tahuka.appspot.com\"\n  },\n  \"client\": [\n    {\n      \"client_info\": {\n        \"mobilesdk_app_id\": \"1:210572363572:android:279e6dc383c742e13ac761\",\n        \"android_client_info\": {\n          \"package_name\": \"com.example.sweetlines\"\n        }\n      },\n      \"oauth_client\": [\n        {\n          \"client_id\": \"210572363572-sakcocl8mdj514skqdjbls15vgvv600g.apps.googleusercontent.com\",\n          \"client_type\": 3\n        }\n      ],\n      \"api_key\": [\n        {\n          \"current_key\": \"AIzaSyB3x3RWvtg21yuqVNcnVhTdO3tCcQ2UWgo\"\n        }\n      ],\n      \"services\": {\n        \"appinvite_service\": {\n          \"other_platform_oauth_client\": [\n            {\n              \"client_id\": \"210572363572-sakcocl8mdj514skqdjbls15vgvv600g.apps.googleusercontent.com\",\n              \"client_type\": 3\n            }\n          ]\n        }\n      }\n    }\n  ],\n  \"configuration_version\": \"1\"\n}"
+        }
+    ]
+}
